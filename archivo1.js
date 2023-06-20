@@ -1,7 +1,7 @@
 let nombre="Pablo"
 console.log(nombre)
 
-let apellido="Polverelli"
+let apellido="Pinto"
 console.log(apellido)
 
 apellido="Martinez"
