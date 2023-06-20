@@ -9,3 +9,9 @@ console.log(nombre)
 
 apellido="Mandel"
 console.log(apellido)
+
+nombre="Paula"
+console.log(nombre)
+
+apellido="Martinez"
+console.log(apellido)
