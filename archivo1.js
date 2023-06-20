@@ -1,4 +1,4 @@
-let nombre="Diego"
+let nombre="Pablo"
 console.log(nombre)
 
 let apellido="Polverelli"
