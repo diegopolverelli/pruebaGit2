@@ -11,9 +11,9 @@ console.log(apellido)
 // console.log(apellido)
 
 // let apellido="Pinto"
-// console.log(apellido)
+console.log(apellido)
 
-// agregado, por fin...!!!
+// agregado...!!!
 
 apellido="Martinez"
 console.log(apellido)
