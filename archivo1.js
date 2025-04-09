@@ -7,16 +7,16 @@ console.log(nombre1)
 let apellido="Pinto"
 console.log(apellido)
 
-apellido="Martinez"
-console.log(apellido)
+// apellido="Martinez"
+// console.log(apellido)
 
 // let apellido="Pinto"
 // console.log(apellido)
 
-// // agregado...!!!
+// agregado, por fin...!!!
 
-// apellido="Martinez"
-// console.log(apellido)
+apellido="Martinez"
+console.log(apellido)
 
 // let apellido="Pinto"
 // console.log(apellido)
